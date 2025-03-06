@@ -14,7 +14,7 @@ Hi, I'm Andrew Wrona. I specialize in working with large datasets, automating pr
 
 🔹 Data Processing & Analysis
 
-  - Delinquency Dashboard [Power BI] (./Power%20BI).
+  - Delinquency Dashboard [Power BI](./Power%20BI).
 
   - Payment Volume Prediction: Developed a predictive model for daily payment volume based on historical data.
 
