@@ -14,7 +14,7 @@ Hi, I'm Andrew Wrona. I specialize in working with large datasets, automating pr
 
 🔹 Data Processing & Analysis
 
-  - Large Dataset Comparison: Optimized address comparison for over 400,000 records.
+  - Delinquency Dashboard [Power BI] (./Power%20BI).
 
   - Payment Volume Prediction: Developed a predictive model for daily payment volume based on historical data.
 
