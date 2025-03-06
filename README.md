@@ -16,7 +16,7 @@ Hi, I'm Andrew Wrona. I specialize in working with large datasets, automating pr
 
   - [Delinquency Dashboard](./Power%20BI/Delinquency%20Dashboard)
 
-  - Payment Volume Prediction: Developed a predictive model for daily payment volume based on historical data.
+  - [Incentive Campaign Scorecard](./Excel/Incentive%20Campaign%20Scorecard)
 
 🔹 Automation & Workflow Optimization
 
