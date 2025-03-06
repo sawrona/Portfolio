@@ -1,6 +1,6 @@
 💻 Andrew Wrona - Data Analyst Portfolio
 
-🚀 About Me
+🚀 **About Me**
 
 Hi, I'm Andrew Wrona. I specialize in working with large datasets, automating processes, and optimizing workflows using Python. My expertise includes:
 
@@ -10,7 +10,7 @@ Hi, I'm Andrew Wrona. I specialize in working with large datasets, automating pr
 
 - Python Scripting & Automation
 
-📂 Featured Projects
+📂 **Featured Projects**
 
 🔹 Data Processing & Analysis
 
@@ -29,7 +29,7 @@ Hi, I'm Andrew Wrona. I specialize in working with large datasets, automating pr
   - Data Warehouse Optimization: Explored alternative storage methods for CSV-based data warehouses, balancing manual access and programmatic manipulation.
 
 
-📫 Get in Touch
+📫 **Get in Touch**
 
 Feel free to connect with me!
 
