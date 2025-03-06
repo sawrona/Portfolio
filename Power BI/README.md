@@ -8,3 +8,5 @@ The goal of this Power BI dashboard is to identify and monitor areas of the inve
 2. Linked Filters: At the top of each page, there are filters that enable users to dynamically interact with the data. These filters are consistent across both pages, ensuring that any adjustments made on one page automatically apply to the other. This allows users to refine their analysis based on specific variables such as time periods, regions, account types, or portfolios.
 
 3. Data Segmentation: By separating the delinquent accounts into distinct aged buckets, the dashboard allows for a nuanced understanding of payment delays. The aging of the portfolio is clearly visible, helping users identify trends and patterns, such as whether certain accounts or portfolios are consistently late, and if the outstanding amounts are increasing over time.
+
+4. Running Report: When a user clicks the "Go to Report" button, the report will mirror the filters based on the user's inputs. There they will have the option to export the data. 
