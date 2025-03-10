@@ -12,22 +12,18 @@ Hi, I'm Andrew Wrona. I specialize in working with large datasets, automating pr
 
 📂 **Featured Projects**
 
-🔹 Data Processing & Analysis
+🔹 Data Analysis & Visualization
 
   - [Delinquency Dashboard](./Power%20BI/Delinquency%20Dashboard)
 
   - [Incentive Campaign Scorecard](./Excel/Incentive%20Campaign%20Scorecard)
   - [Agent Scorecard](./Excel/Agent%20Scorecard)
 
-🔹 Automation & Workflow Optimization
+🔹 Python Scripting & Automation
 
   - Excel File Processing: Automated extraction and transformation of Excel files, including date parsing from filenames.
 
   - Dunning Process Improvements: Enhanced the efficiency of an existing dunning system to optimize collections.
-
-🔹 Data Storage & Management
-
-  - Data Warehouse Optimization: Explored alternative storage methods for CSV-based data warehouses, balancing manual access and programmatic manipulation.
 
 
 📫 **Get in Touch**
