@@ -21,7 +21,7 @@ Hi, I'm Andrew Wrona. I specialize in working with large datasets, automating pr
 
 🔹 Python Scripting & Automation
 
-  - Excel File Processing: Automated extraction and transformation of Excel files, including date parsing from filenames.
+  - [Temperature Analysis](./Python/Temperature%20Analysis)
 
   - Dunning Process Improvements: Enhanced the efficiency of an existing dunning system to optimize collections.
 
