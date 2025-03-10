@@ -9,13 +9,13 @@ How has the monthly average temperature changed over the past century, and can w
 
 **Methodology**
 
-1. Data Generation: Since real-world historical temperature data may not always be available, this project generates synthetic temperature data from 2014 to 2024, incorporating seasonal trends, gradual warming effects, and random noise.
+1. Data Generation: Since real-world historical temperature data may not always be available, this project generates synthetic temperature data from 1900 to "Current" (2023), incorporating seasonal trends, gradual warming effects, and random noise.
 
 2. Data Visualization:
 
 - A line plot to show how average monthly temperatures vary over the years.
 
-- A bar chart to illustrate yearly average temperature trends.
+- A line plot to illustrate yearly average temperature trends.
 
 3. Analysis: Observing the visual trends helps in understanding whether there is a noticeable warming effect over the years.
 
@@ -33,4 +33,4 @@ How has the monthly average temperature changed over the past century, and can w
 
 - The line plot reveals seasonal temperature variations and how each year compares.
 
-- The bar chart helps visualize the long-term temperature trend over the years, highlighting any warming patterns.
+- The line plot helps visualize the long-term temperature trend over the years, highlighting any warming patterns.
