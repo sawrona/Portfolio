@@ -4,14 +4,14 @@ This Excel data table is designed to track and analyze agent performance in proc
 
 **Features**
 
-Monthly Payment Tracking: Captures the number of payments processed by each agent, including total amounts and successful peer-to-peer (P2P) transactions.
+- Monthly Payment Tracking: Captures the number of payments processed by each agent, including total amounts and successful peer-to-peer (P2P) transactions.
 
-New Payment Plans: Displays the number of newly initiated payment plans for each agent.
+- New Payment Plans: Displays the number of newly initiated payment plans for each agent.
 
-Call Analytics: Monitors inbound (IB) calls, outbound dialer calls, and manual outbound (OB) calls, offering a comprehensive view of agent interactions.
+- Call Analytics: Monitors inbound (IB) calls, outbound dialer calls, and manual outbound (OB) calls, offering a comprehensive view of agent interactions.
 
-Agent Availability: Tracks average unavailable minutes per agent to assess efficiency.
+- Agent Availability: Tracks average unavailable minutes per agent to assess efficiency.
 
-Automatic Summarization: The last row of each month aggregates key metrics for quick reference.
+- Automatic Summarization: The last row of each month aggregates key metrics for quick reference.
 
-Color Coding: Different shades highlight monthly sections, and yellow emphasizes total monthly figures for easy readability.
+- Color Coding: Different shades highlight monthly sections, and yellow emphasizes total monthly figures for easy readability.
