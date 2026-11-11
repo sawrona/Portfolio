@@ -7,6 +7,9 @@ Work that shows the thinking, not just the résumé. Each project is a real prob
 | Project | What it does | Stack |
 |---|---|---|
 | [Autopay Enrollment Trends](projects/autopay-enrollment-trend/case-study.md) | Reconstructs account-level autopay enrollment history from free-text servicing notes, so enrollment trends can be reported, securitization decisions can rest on real data, and newly unenrolled customers can be targeted. ~300k accounts, daily, history back to Nov 2025. | Snowflake SQL |
+| [First Payment Default Dashboard](projects/first-payment-default-dashboard/case-study.md) | Tracks each onboarding batch from boarding through first payment — payer rate, non-payers, autopay split, and average days to payment, by batch. ~7,000 accounts, runs daily; payer rate 23% → 32% as of Oct 31, 2026. | Excel / VBA · Salesforce |
+| [Agent Performance Dashboard](projects/agent-performance-dashboard/case-study.md) | Dropdown-driven view of call volume and handle time by agent, queue, and call type, plus a weekly view so totals tie out. | Excel / VBA · Snowflake SQL · Amazon Connect |
+| [Concord Billed vs. Collected by System](projects/concord-billed-vs-collected-by-system/case-study.md) | Rolls billed vs. collected up to one row per system for any month, excluding charges from accounts parked in non-billing dispositions. ~300k accounts a month. | Snowflake SQL |
 
 ## Structure
 
