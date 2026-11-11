@@ -5,16 +5,18 @@
 
 ## About me
 
-I'm a data analyst with 5+ years of experience turning raw data into actionable insights for leadership and operational strategy utilizing SQL, Python, and Excel, with a focus on business intelligence, data modeling, and predictive analytics. Most of my work lives in solar loan servicing: collections, revenue operations, and billing, where I automate manual reporting and build the dashboards, queries, and logic that decisions rest on.
+I'm a data analyst with 5+ years of experience turning raw data into actionable insights for leadership and operational strategy — SQL, Python, and Excel, with a focus on business intelligence, data modeling, and predictive analytics. Most of my work lives in solar loan servicing: collections, revenue operations, and billing, where I automate manual reporting and build the dashboards, queries, and logic that decisions rest on.
 
 Right now I'm a Senior Servicing Analyst at SunStrong Management. Before that I was a Senior Collections Analyst at Sunnova (through the transition to SunStrong), and a Workforce Analyst at PFS Group. I keep coming back to the same kind of problem: the answer is buried in data nobody can query cleanly, and the fix is a query, a pipeline, or a dashboard that makes it obvious.
 
 ### What I'm doing now
 
-- Built and maintain a vendor tracking and scoring platform spanning five servicing vendors — KPI scoring, corrective-action tracking, and audit logging to support cost-control and service-level decisions.
-- Own the buyout/prepayment calculator used across the Third Party Owned (TPO) lease and PPA portfolio, and trained cross-functional and offshore teams on it. It has contributed to $961,104.74 in customer buyout payments and a $161,732.99 improvement in quoted-vs-paid accuracy after a calculator redesign.
-- Designed and automated a daily Python/Snowflake pipeline that builds and segments the Collections team's Amazon Connect outbound dialer lists; I manage day-to-day dialer operations, new-hire systems onboarding, and team scheduling.
-- Built a clickable HTML onboarding module and designed a hybrid team/individual bonus structure for the Billing Ops & Collections team, documented processes, and cleaned legacy Salesforce data to stabilize reporting under the new servicing entity.
+Four projects from my day job in servicing and collections — each one started with a question nobody could answer quickly:
+
+- **[Autopay Enrollment Trends](projects/autopay-enrollment-trend/case-study.md)** — Autopay status was a stale field with no history behind it, so I rebuilt account-level enrollment history out of free-text servicing notes and daily snapshots. Now enrollment trends are real numbers across ~300,000 accounts, and they feed securitization decisions and investor reporting.
+- **[First Payment Default Dashboard](projects/first-payment-default-dashboard/case-study.md)** — I track each onboarding batch from boarding through first payment: who's paying, who's not, autopay vs. not, and how long late payers take. About 7,000 accounts, refreshed daily.
+- **[Agent Performance Dashboard](projects/agent-performance-dashboard/case-study.md)** — We had call data but no simple way to see productivity by agent, queue, and call type without counting by hand. I built a dropdown-driven dashboard over 16,927 calls, so now it's a selection instead of a manual count.
+- **[Concord Billed vs. Collected by System](projects/concord-billed-vs-collected-by-system/case-study.md)** — Finance needed billed vs. collected by system for a month, and the account-level version double counted accounts parked in non-billing dispositions. I rewrote the query to return one row per system, using each account's disposition on the charge's due date.
 
 ### Before SunStrong
 
