@@ -5,7 +5,7 @@
 
 ## About me
 
-I'm a data analyst with 5+ years of experience turning raw data into actionable insights for leadership and operational strategy — SQL, Python, and Excel, with a focus on business intelligence, data modeling, and predictive analytics. Most of my work lives in solar loan servicing: collections, revenue operations, and billing, where I automate manual reporting and build the dashboards, queries, and logic that decisions rest on.
+I'm a data analyst with 5+ years of experience turning raw data into actionable insights for leadership and operational strategy utilizing SQL, Python, and Excel, with a focus on business intelligence, data modeling, and predictive analytics. Most of my work lives in solar loan servicing: collections, revenue operations, and billing, where I automate manual reporting and build the dashboards, queries, and logic that decisions rest on.
 
 Right now I'm a Senior Servicing Analyst at SunStrong Management. Before that I was a Senior Collections Analyst at Sunnova (through the transition to SunStrong), and a Workforce Analyst at PFS Group. I keep coming back to the same kind of problem: the answer is buried in data nobody can query cleanly, and the fix is a query, a pipeline, or a dashboard that makes it obvious.
 
