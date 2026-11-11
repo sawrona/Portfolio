@@ -31,8 +31,8 @@ On 2026-10-31 I reported the payer rate had moved from 23% to 32% across both su
 ### What the dashboard shows now (Nov 11, 2026)
 
 - **All completed WIP: 7,322 accounts — payer rate 83.2%, autopay enrollment 69.2%.** Batches due on or after Jul 15, 2026 (2,535 accounts): payer rate 70.3%, autopay enrollment 47.0%.
-- **Current view (Launch, 509 accounts): payer rate 68.2%, non-payer rate 31.8%, on-time payer rate 32.4%.** First-payment default rate (matured accounts) 67.5%; average days late among late first payers 30.9 days; 30.8% of accounts 30+ days past due.
-- **The autopay effect is visible in the numbers:** in the July 2026 batch (482 accounts), the first-payment default rate was 44.1% for autopay accounts vs. 82.2% for non-autopay accounts. Across all batches, 43.7% vs. 80.9%.
+- **Current view (All subservicers, 2,535 accounts): payer rate 70.3%, non-payer rate 29.7%, on-time payer rate 8.8%.** First-payment default rate (matured accounts) 91.2%; average days late among late first payers 31.0 days; 26.7% of accounts 30+ days past due. Concord accounts for 2,026 of the 2,535 (70.8% payer rate); Launch is 509 (68.2%).
+- **The autopay effect is visible in the numbers:** in the July 2026 batch (2,310 accounts), the first-payment default rate was 88.8% for autopay accounts vs. 93.4% for non-autopay accounts. Across all batches, 89.2% vs. 93.0%. The effect is much stronger within Launch alone, where the July batch showed 44.1% vs. 82.2% — the combined view is dominated by Concord's large July batch (1,828 of the 2,310 July accounts).
 
 ![First Payment Performance Dashboard](dashboard.png)
 
