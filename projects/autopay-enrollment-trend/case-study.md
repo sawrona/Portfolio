@@ -67,6 +67,3 @@ For each report date, an account's status is its most recent event on or before 
 - `sql/autopay_enrollment_trend.sql` — the full query (v6), with table names shortened to the table only, per the author's sharing rule; no schemas, no real account data.
 - `sample-output-illustrative.csv` — illustrative daily output (format only).
 
-## Notes on sharing
-
-Table names are shown without their schema/database qualifiers, and no customer or account data appears anywhere in this project. The note-text patterns (`PBS PMT MTHD ...`, `Bill Chgs Recurring Autopay ...`) are part of the logic itself and are shown as written.
