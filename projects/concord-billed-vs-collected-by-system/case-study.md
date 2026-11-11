@@ -32,6 +32,3 @@ One row per system: Month, System Name, Disposition Code(s), Amount Billed, Amou
 
 - `sql/concord-billed-vs-collected-by-system.sql` — the full query. Table names only, no schemas.
 
-## Notes on sharing
-
-Sharing: show code, table names only — no schemas.
